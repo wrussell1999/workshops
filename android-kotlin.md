@@ -3,6 +3,12 @@ layout: default
 title:  "Introduction to Android Development: Kotlin Edition"
 ---
 
+# Introduction to Android Development: Kotlin Edition
+
+Interested in mobile development? This is the perfect place to start!
+
+I run this workshop at universities all over the UK, as well as online for virtual events. Interested in having me? Send me an [email](mailto:will@will-russell.com)!
+
 ## When can I watch this?
 
 This will be live streamed as part of [Hack Quarantine](https://hackquarantine.com) on their [live stream](https://hackquarantine.com/stream). Join in at 1PM BST on the 6th April 2020!
