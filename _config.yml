@@ -8,7 +8,7 @@ twitter_username: wrussell1999
 github_username:  wrussell1999
 
 # Build settings
-theme: just-the-docs
+remote_theme: "pmarsceill/just-the-docs@v0.2.3"
 plugins:
   - jekyll-feed
 
