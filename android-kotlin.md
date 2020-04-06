@@ -11,9 +11,9 @@ I run this workshop at universities all over the UK, as well as online for virtu
 
 ## When can I watch this?
 
-This will be live streamed as part of [Hack Quarantine](https://hackquarantine.com) on their [live stream](https://hackquarantine.com/stream). Join in at 1PM BST on the 6th April 2020!
+This was live streamed as part of [Hack Quarantine](https://hackquarantine.com) on their [live stream](https://hackquarantine.com/stream). 
 
-It will also be uploaded to YouTube afterwards.
+It will be uploaded to YouTube soon!
 
 ## Where do I even start?
 
