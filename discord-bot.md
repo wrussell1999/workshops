@@ -15,3 +15,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 cat creds_template.json > creds.json
 ```
+
+## Resources
+
+- My slides can be found [here](/assets/slides/discord/discord-slides.pdf)!
+- Code used can be found [here](https://github.com/wrussell1999/discord-bot-workshop)
