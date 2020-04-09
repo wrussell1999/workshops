@@ -28,3 +28,8 @@ Kotlin is a new way to write Android apps, advertised as a quicker and more enjo
 - Modern and expressive
 - Safer code
 - Interoperable
+
+## Resources
+
+- Slides can be found [here](/assets/slides/android/kotlin/android-kotlin-slides.pdf)
+- Code can be found [here](https://github.com/wrussell1999/android-workshop-kotlin)

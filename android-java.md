@@ -25,3 +25,7 @@ Java is a language that has been around for ages. Lots of university students le
 
 As Android apps were originally written in Java, there's lots of guides and documentation to help guide you along too!
 
+## Resources
+
+- Slides can be found [here](/assets/slides/android/java/android-java-slides.pdf)
+- Code can be found [here](https://github.com/wrussell1999/android-workshop-java)
