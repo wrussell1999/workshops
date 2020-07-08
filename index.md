@@ -20,4 +20,4 @@ I've given talks at the following places:
 - Royal Holloway, University of London
 - Manchester Metropolitan University
 
-Interested? Send me an email at [will@will-russell.com](mailto:will@will-russell.com)
+Interested? Send me an email at [will@wrussell.co.uk](mailto:will@wrussell.co.uk)
