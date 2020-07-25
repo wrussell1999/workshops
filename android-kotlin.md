@@ -11,9 +11,7 @@ I run this workshop at universities all over the UK, as well as online for virtu
 
 ## When can I watch this?
 
-This was live streamed as part of [Hack Quarantine](https://hackquarantine.com) on their [live stream](https://hackquarantine.com/stream). 
-
-It will be uploaded to YouTube soon!
+This was live streamed as part of [Hack Quarantine](https://hackquarantine.com) on their [live stream](https://hackquarantine.com/stream). However, it can now be found on [YouTube!](https://youtu.be/uPxA8GhEQlI)
 
 ## Where do I even start?
 

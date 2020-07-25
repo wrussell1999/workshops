@@ -27,5 +27,6 @@ Git is a tool used every day all over the world with professionals... but what i
 
 ## Resources
 
+- [Video](https://youtu.be/eJzuwUZLf0k)
 - [Slides](/assets/slides/git/git-slides.pdf)
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/) by Roger Dudler

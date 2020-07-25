@@ -18,5 +18,6 @@ cat creds_template.json > creds.json
 
 ## Resources
 
+- Video can be found [here](https://youtu.be/ZrXDcmwg2f4)
 - My slides can be found [here](/assets/slides/discord/discord-slides.pdf)!
 - Code used can be found [here](https://github.com/wrussell1999/discord-bot-workshop)
